@@ -1,0 +1,26 @@
+_repo: The-Spirit-Lake-Massacre_42074
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42074-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Teakle, Thomas
+    gutenberg_agent_id: '41510'
+    url: http://www.gutenberg.org/2009/agents/41510
+description: ''
+gutenberg_issued: '2013-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42074'
+  lccn: '18027392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spirit Lake Massacre, Iowa, 1857'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Iowa'
+title: The Spirit Lake Massacre
+url: http://www.gutenberg.org/ebooks/42074
